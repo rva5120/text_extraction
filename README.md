@@ -7,4 +7,4 @@ Install doc2tex
 ## Test Run
 `python get_text.py filename.pdf`
 
-_The output file with the text is_ filename.pdf
+_The output file with the text extracted is in:_ filename.pdf
